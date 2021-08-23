@@ -9,21 +9,32 @@ Our original code works perfect with a few thouhsands of stocks. Now, Steve want
 
 #### Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-<img src = "resources/original2017stockanalysis.png" width = 500)>
 Original code run time for 2017
-<img src = "resources/original2018stockanalysis.png" width = 500)>
+
+<img src = "resources/original2017stockanalysis.png" width = 500)>
+
 Original code run time for 2018
-<img src = "resources/VBA_Challenge_2017.png" width = 500)>
+
+<img src = "resources/original2018stockanalysis.png" width = 500)>
+
 Refactored code run time for 2017. Run time reduced by 5 times
-<img src = "resources/VBA_Challenge_2018.png" width = 500)>
+
+<img src = "resources/VBA_Challenge_2017.png" width = 500)>
+
 Refactored code run time for 2018. Run time reduced by 4 times.
-<img src = "resources/originalCode.png" width = 500)>
+
+<img src = "resources/VBA_Challenge_2018.png" width = 500)>
 
 In the original code, the program has to iterate through the loop for a total of 12 (no. of tickers) x 3012 (number of data rows). So it takes a longer time to execute this piece of code
 
-<img src = "resources/refactoredCode.png" width = 500)>
+<img src = "resources/originalCode.png" width = 500)>
+
 
 In the refactored code, the program only runs once through the entire dataset of 3012 rows.
+
+<img src = "resources/refactoredCode.png" width = 500)>
+
+
 
 
 ### Summary: In a summary statement, address the following questions.
